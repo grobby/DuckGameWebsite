@@ -1,0 +1,42 @@
+﻿body 
+{
+    background-image:url(/Images/duckbackground.png);
+    background-position:center;
+    
+}
+
+#Banner
+{
+    background-image:url(/Images/duckbanner.png);
+    height:100px;
+    background-repeat:no-repeat;
+    background-position:center;
+    
+}
+
+#leftside
+{
+    position:absolute;
+    bottom:50px;
+    background-image:url(/Images/greenclear.png);
+    width:13%;
+    float:left;
+    height:400px;
+    border:solid;
+    border-width:medium;
+    border-color:#bbdbb6;
+    
+}
+
+#maincontent
+{
+    background-image:url(/Images/greenclear.png);
+    width:50%;
+    float:right;
+    position:relative;
+    height:1000px;
+    border:solid;
+    border-width:medium;
+    border-color:#bbdbb6;
+}
+
