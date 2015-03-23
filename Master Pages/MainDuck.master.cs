@@ -24,10 +24,12 @@ public partial class Master_Pages_MainDuck : System.Web.UI.MasterPage
     protected void Button4_Click(object sender, EventArgs e)
     {
         //Feautures
+        Response.Redirect("/WebForums/Features.aspx");
     }
     protected void Button2_Click(object sender, EventArgs e)
     {
         //About us
+        Response.Redirect("/WebForums/AboutUs.aspx");
     }
     protected void Button5_Click(object sender, EventArgs e)
     {
