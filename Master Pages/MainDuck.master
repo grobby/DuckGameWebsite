@@ -23,29 +23,30 @@
 
         <div id="leftside">
             <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Navigation&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <br />
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            Navigation<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br />
             <br />
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Screen Shots" BackColor="#FFFFCC" BorderColor="#CCFFCC" Width="125px" />
             <br />
             <br />
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <asp:Button ID="Button2" runat="server" Text="About Us" BackColor="#FFFFCC" BorderColor="#CCFFCC" Width="125px" />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <asp:Button ID="Button2" runat="server" Text="About Us" BackColor="#FFFFCC" BorderColor="#CCFFCC" Width="125px" OnClick="Button2_Click" />
             <br />
             <br />
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <asp:Button ID="Button3" runat="server" Text="Contact Us" BackColor="#FFFFCC" BorderColor="#CCFFCC" Width="125px" />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <asp:Button ID="Button3" runat="server" Text="Contact Us" BackColor="#FFFFCC" BorderColor="#CCFFCC" Width="125px" OnClick="Button3_Click" />
             <br />
             <br />
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <asp:Button ID="Button4" runat="server" style="margin-bottom: 0px" Text="Feautures" BackColor="#FFFFCC" BorderColor="#CCFFCC" Width="125px" />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <asp:Button ID="Button4" runat="server" style="margin-bottom: 0px" Text="Feautures" BackColor="#FFFFCC" BorderColor="#CCFFCC" Width="125px" OnClick="Button4_Click" />
             <br />
             <br />
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <asp:Button ID="Button5" runat="server" Text="Demo" BackColor="#FFFFCC" BorderColor="#CCFFCC" Width="125px" />
+            &nbsp;&nbsp;&nbsp; &nbsp;
+            <asp:Button ID="Button5" runat="server" Text="Demo" BackColor="#FFFFCC" BorderColor="#CCFFCC" Width="125px" OnClick="Button5_Click" />
             <br />
             <br />
             <br />
@@ -59,7 +60,7 @@
                 <br />
             </p>
             <p>
-                Welcome to </p>
+                &nbsp;</p>
             <p>
             </p>
             <p>

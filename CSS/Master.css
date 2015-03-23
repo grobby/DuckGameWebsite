@@ -7,6 +7,7 @@
 
 #Banner
 {
+    
     background-image:url(/Images/duckbanner.png);
     height:100px;
     background-repeat:no-repeat;
@@ -17,19 +18,20 @@
 #leftside
 {
     position:absolute;
-    bottom:50px;
-    background-image:url(/Images/greenclear.png);
+    background-image:url('/Images/greenclear.png');
     width:13%;
     float:left;
-    height:400px;
-    border:solid;
-    border-width:medium;
-    border-color:#bbdbb6;
-    
+    height:356px;
+    border:medium solid #bbdbb6;
+    top: 115px;
+    left: 10px;
 }
 
 #maincontent
 {
+    position:absolute;
+    top:50px;
+    right:425px;
     background-image:url(/Images/greenclear.png);
     width:50%;
     float:right;
@@ -38,5 +40,7 @@
     border:solid;
     border-width:medium;
     border-color:#bbdbb6;
+    font-family:Tahoma;
+    padding:10px;
 }
 
