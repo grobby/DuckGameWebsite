@@ -13,13 +13,14 @@ public partial class Master_Pages_MainDuck : System.Web.UI.MasterPage
     }
     protected void Button1_Click(object sender, EventArgs e)
     {
-        //Screen Shots
-
+        //Pre order (previous games)
+        Response.Redirect("/WebForums/Preorder.aspx");
         
     }
     protected void Button3_Click(object sender, EventArgs e)
     {
         //Contact Us
+
     }
     protected void Button4_Click(object sender, EventArgs e)
     {
@@ -34,5 +35,6 @@ public partial class Master_Pages_MainDuck : System.Web.UI.MasterPage
     protected void Button5_Click(object sender, EventArgs e)
     {
         //Demo
+        Response.Redirect("/WebForums/DuckDemo.aspx");
     }
 }
