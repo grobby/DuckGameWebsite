@@ -20,7 +20,7 @@ public partial class Master_Pages_MainDuck : System.Web.UI.MasterPage
     protected void Button3_Click(object sender, EventArgs e)
     {
         //Contact Us
-
+        Response.Redirect("/WebForums/Contact.aspx");
     }
     protected void Button4_Click(object sender, EventArgs e)
     {

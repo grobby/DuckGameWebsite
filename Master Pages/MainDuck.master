@@ -30,7 +30,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br />
             <br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Screen Shots" BackColor="#FFFFCC" BorderColor="#CCFFCC" Width="125px" />
+            <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Pre-order" BackColor="#FFFFCC" BorderColor="#CCFFCC" Width="125px" />
             <br />
             <br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
